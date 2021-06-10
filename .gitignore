@@ -1,1 +1,4 @@
 qanh-server/node_modules
+qanh-server/test.js
+
+rabbitmq/data
